@@ -28,5 +28,11 @@
     "contenuto": "Un thriller di Dan Brown che segue il professor Robert Langdon in una serie di misteri legati all'arte e alla religione.",
     "immagine": "nodeimage.jpeg",
     "tags": "thriller, mistero, arte"
+  },
+  {
+    "titolo": "Harry Potter e la Pietra Filosofale",
+    "contenuto": "Il primo libro della celebre serie fantasy scritta da J.K. Rowling, che segue le avventure del giovane mago Harry Potter.",
+    "immagine": "nodeimage.jpeg",
+    "tags": "fantasy, magia, avventura"
   }
 ]
