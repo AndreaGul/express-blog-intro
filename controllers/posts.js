@@ -9,9 +9,9 @@ module.exports = {
         posts.forEach(({ titolo, contenuto, immagine, tags }) => {
           html += `<li>Film</li>
           <li>titolo: ${titolo}</li>
-          <li>titolo: ${contenuto}</li>
-          <li>titolo: ${immagine}</li>
-          <li>titolo: ${tags}</li>`;
+          <li>${contenuto}</li>
+          <li><img width="200px" src="/${immagine}"/></li>
+          <li>tags: ${tags}</li>`;
         });
         html += '</ul><main>';
         res.send(html);
